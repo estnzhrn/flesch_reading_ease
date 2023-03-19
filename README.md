@@ -1,2 +1,1 @@
-# flesch_reading_ease
-Calculate the Flesch reading ease for English or German documents.
+Hey! This code can be used to calculate the Flesch reading ease for English or German documents.
